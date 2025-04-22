@@ -9,7 +9,7 @@ const Testimonial = () => {
                 <p className="primary-subheading">Clientes</p>
                 <h1 className="primary-heading">Ellos ya nos eligen</h1>
                 <p className="primary-text">
-                    Historias reales de personas que disfrutan comer FOODIE todos los días.
+                    Historias de personas que eligen FOODIE todos los días.
                 </p>
             </div>
             <div className="testimonial-section-bottom">
