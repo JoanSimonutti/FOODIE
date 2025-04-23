@@ -1,5 +1,5 @@
 # Joan Simonutti Page-01
-asdsadsa
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
