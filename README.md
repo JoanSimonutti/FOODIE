@@ -1,4 +1,4 @@
-## Page-01 Joan Simonutti | Available Scripts
+## Page-01 por Joan Simonutti | Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
