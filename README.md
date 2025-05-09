@@ -1,4 +1,10 @@
-## Page-01 por Joan Simonutti | Available Scripts
+### Soy Joan Simonutti y éste es <br/>es un proyecto de landingpage para practicar React.
+
+### NOTA: Para visualizar la pagina web copia y pega <br/>el siguiente comando en la consola "npm install && npm run start"
+
+---
+
+### Available Scripts
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
