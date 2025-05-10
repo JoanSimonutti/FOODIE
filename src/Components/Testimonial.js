@@ -25,7 +25,7 @@ const Testimonial = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Mateo Longoni, triatleta profesional.</h2>
+                <h2>Juan Oliva, triatleta profesional.</h2>
             </div>
         </div>
     );
