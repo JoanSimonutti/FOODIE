@@ -6,7 +6,6 @@ const Testimonial = () => {
     return (
         <div className="work-section-wrapper">
             <div className="work-section-top">
-                <p className="primary-subheading">Clientes</p>
                 <h1 className="primary-heading">Ellos ya nos eligen</h1>
                 <p className="primary-text">
                     Historias de personas que eligen FOODIE todos los días.
@@ -26,7 +25,7 @@ const Testimonial = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Lucas, triatleta profesional.</h2>
+                <h2>Mateo Longoni, triatleta profesional.</h2>
             </div>
         </div>
     );

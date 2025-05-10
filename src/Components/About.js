@@ -14,7 +14,6 @@ const About = () => {
                 <img src={AbourBackgroundImage} alt='' />
             </div>
             <div className='about-section-text-container'>
-                <p className='primary-subheading'>Info</p>
                 <h1 className='primary-heading'>
                     Promovemos una alimentación equilibrada con comida saludable y deliciosa.
                 </h1>
