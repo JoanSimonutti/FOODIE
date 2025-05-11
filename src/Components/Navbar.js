@@ -50,9 +50,9 @@ const Navbar = () => {
             </div>
             <div className='navbar-links-container'>
                 <a href=''>Home</a>
-                <a href=''>Info</a>
-                <a href=''>Clientes</a>
-                <a href=''>Contacto</a>
+                <a href='#info'>Info</a>
+                <a href='#clientes'>Clientes</a>
+                <a href='#footer'>Contacto</a>
                 <a href=''>
                     <BsCart2 className='navbar-cart-icon' />
                 </a>

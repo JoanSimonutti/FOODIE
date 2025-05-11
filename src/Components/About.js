@@ -6,7 +6,7 @@ import { BsFillPlayCircleFill } from 'react-icons/bs';
 const About = () => {
 
     return (
-        <div className='about-section-container'>
+        <div className='about-section-container' id='info'>
             <div className='about-background-image-container'>
                 <img src={AboutBackground} alt='' />
             </div>
@@ -15,14 +15,14 @@ const About = () => {
             </div>
             <div className='about-section-text-container'>
                 <h1 className='primary-heading'>
-                    Promovemos una alimentación equilibrada con comida saludable y deliciosa.
+                    Promovemos una alimentación equilibrada con comida saludable y deliciosa
                 </h1>
                 <p className='primary-text'>
                     Te ofrecemos una alimentación equilibrada a través de platos saludables,
-                    frescos y deliciosos, pensados para cuidar tu bienestar sin renunciar al sabor.
+                    frescos y deliciosos, pensados para cuidar tu bienestar sin renunciar al sabor
                 </p>
                 <p className='primary-text'>
-                    Elegí salud, disfrutá el sabor.
+                    Elegí salud, disfrutá el sabor
                 </p>
                 <div className='about-buttons-container'>
                     <button className='secondary-button'>Más Info</button>

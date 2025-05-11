@@ -4,19 +4,17 @@ import { AiFillStar } from "react-icons/ai";
 
 const Testimonial = () => {
     return (
-        <div className="work-section-wrapper">
+        <div className="work-section-wrapper" id="clientes">
             <div className="work-section-top">
                 <h1 className="primary-heading">Ellos ya nos eligen</h1>
                 <p className="primary-text">
-                    Historias de personas que eligen FOODIE todos los días.
+                    Historias de personas que eligen FOODIE todos los días
                 </p>
             </div>
             <div className="testimonial-section-bottom">
                 <img src={ProfilePic} alt="" />
                 <p>
-                    "Como atleta profesional, cuido cada cosa que consumo.
-                    Esta comida me da la energía y nutrición que necesito,
-                    sin renunciar al sabor. Es mi aliado fuera del entrenamiento."
+                    "Cuido cada cosa que consumo, ésta comida nutre, energiza y tiene un sabor increible! FOODIE es mi aliado perfecto"
                 </p>
                 <div className="testimonials-stars-container">
                     <AiFillStar />
@@ -25,7 +23,7 @@ const Testimonial = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Juan Oliva, triatleta profesional.</h2>
+                <h2>Juan Oliva, Haragán Profesional</h2>
             </div>
         </div>
     );

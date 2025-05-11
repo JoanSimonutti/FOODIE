@@ -8,7 +8,7 @@ import { FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className="footer-wrapper">
+        <div className="footer-wrapper" id="footer">
             <div className="footer-section-one">
                 <div className="footer-logo-container">
                     <img src={Logo} alt="" />
@@ -21,19 +21,21 @@ const Footer = () => {
             </div>
             <div className="footer-section-two">
                 <div className="footer-section-columns">
-                    <span>Qualtiy</span>
-                    <span>Help</span>
-                    <span>Share</span>
-                    <span>Carrers</span>
-                </div>
-                <div className="footer-section-columns">
                     <span>244-5333-7783</span>
-                    <span>hello@foodie.com</span>
-                    <span>Terms & Conditions</span>
-                    <span>Privacy Policy</span>
+                    <span>hola@foodie.com</span>
+                    <span>Trabaja con nosotros</span>
+                    <span>Términos y condiciones</span>
                 </div>
                 <div className="footer-section-columns">
-                    <span><a className="enlacefooter" href="https://www.linkedin.com/in/joansimonutti/" target="_blank">Joan Simonutti</a></span>
+                    <span></span>
+                    <span></span>
+                    <span>Políticas de privacidad</span>
+                    <span>FOODIE Internacional</span>
+                </div>
+                <div className="footer-section-columns">
+                    <span></span>
+                    <span></span>
+                    <span><a className="enlacefooter" href="https://github.com/JoanSimonutti" target="_blank">JOAN SIMONUTTI</a></span>
                     <span>FOODIE © 2025</span>
                 </div>
             </div>

@@ -16,11 +16,11 @@ const Home = () => {
                 </div>
                 <div className='home-text-section'>
                     <h1 className='primary-heading'>
-                        Tu comida favorita, saludable y lista para disfrutar.
+                        Tu comida favorita, saludable y lista para disfrutar
                     </h1>
                     <p className='primary-text'>
                         Nuestros chefs seleccionan con dedicación ingredientes frescos
-                        y de alta calidad para que disfrutes una alimentación sana, práctica y deliciosa.
+                        y de alta calidad para que disfrutes una alimentación sana, práctica y deliciosa
                     </p>
                     <button className='secondary-button'>
                         IR A LA TIENDA <FiArrowRight />
