@@ -23,7 +23,7 @@ const Testimonial = () => {
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>Mateo Simonutti, Atleta Olimpico</h2>
+                <h2>Leonel Simonutti, Atleta Olimpico</h2>
             </div>
         </div>
     );
