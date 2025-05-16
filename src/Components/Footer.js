@@ -13,7 +13,8 @@ const Footer = () => {
     return (
         <div className="footer-wrapper" id="footer">
             <div className="footer-section-one">
-                <div className="footer-logo-container">
+                <div className="footer-logo-container" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                    style={{ cursor: 'pointer' }}>
                     <img src={Logo} alt="" />
                 </div>
                 <div className="footer-icons">
