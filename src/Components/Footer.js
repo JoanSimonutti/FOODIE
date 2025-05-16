@@ -30,7 +30,7 @@ const Footer = () => {
                     <span></span>
                     <span></span>
                     <span onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                        style={{ cursor: 'pointer', fontWeight: 'bold', textDecoration: 'underline' }}>Back to Top</span>
+                        style={{ cursor: 'pointer', fontWeight: 'bold', textDecoration: 'underline' }}>LLEVAME ARRIBA</span>
                 </div>
                 <div className="footer-section-columns">
                     <span>244-5333-7783</span>
