@@ -26,11 +26,11 @@ const Footer = () => {
             </div>
             <div className="footer-section-two">
                 <div className="footer-section-columns">
+                    <span></span>
+                    <span></span>
+                    <span></span>
                     <span onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
                         style={{ cursor: 'pointer' }}>Back to Top</span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
                 </div>
                 <div className="footer-section-columns">
                     <span>244-5333-7783</span>
