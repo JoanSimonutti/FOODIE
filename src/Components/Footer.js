@@ -23,16 +23,16 @@ const Footer = () => {
             </div>
             <div className="footer-section-two">
                 <div className="footer-section-columns">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div className="footer-section-columns">
                     <span>244-5333-7783</span>
                     <span>hola@foodie.com</span>
                     <span>Trabaja con nosotros</span>
                     <span>Términos y condiciones</span>
-                </div>
-                <div className="footer-section-columns">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
                 </div>
                 <div className="footer-section-columns">
                     <span></span>
