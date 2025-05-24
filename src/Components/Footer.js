@@ -8,6 +8,7 @@ import { TbWorldWww } from "react-icons/tb";
 /* import { FaFacebookF } from "react-icons/fa";*/
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
+import { FaRegArrowAltCircleUp } from "react-icons/fa";
 
 const Footer = () => {
     return (
@@ -18,10 +19,10 @@ const Footer = () => {
                     <img src={Logo} alt="" />
                 </div>
                 <div className="footer-icons">
+                    <span></span>
                     <span><a className="enlacefooter" href="https://www.linkedin.com/in/joansimonutti/" target="_blank"><SiLinkedin /></a></span>
                     <span><a className="enlacefooter" href="https://github.com/JoanSimonutti" target="_blank"><FaGithub /></a></span>
-                    <span><a className="enlacefooter" href="https://theoldstorehouse.ie/" target="_blank"><TbWorldWww /></a></span>
-                    <span><a className="enlacefooter" href="https://www.google.com/maps/dir//3+Crown+Alley,+Temple+Bar,+Dublin,+D02+CX67,+Ireland/@53.3186908,-6.420619,10.86z/data=!4m8!4m7!1m0!1m5!1m1!1s0x48670e9cb4613089:0xa8e4636215b85741!2m2!1d-6.262646!2d53.345176?hl=en&entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><FiMapPin /></a></span>
+                    <span><a className="enlacefooter" href="https://www.google.com/maps/place/BrewDog+Outpost+Dublin/@53.3452832,-6.238385,16.24z/data=!4m6!3m5!1s0x48670f74db7ba8af:0x707a602c5aaf364a!8m2!3d53.3444615!4d-6.2309553!16s%2Fg%2F11hzw5tj0h?hl=en&entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D" target="_blank"><FiMapPin /></a></span>
                 </div>
             </div>
             <div className="footer-section-two">
@@ -29,20 +30,17 @@ const Footer = () => {
                     <span></span>
                     <span></span>
                     <span></span>
-                    <span onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                        style={{ cursor: 'pointer', fontWeight: 'bold', textDecoration: 'underline' }}>REGRESAR ARRIBA</span>
+                    <span></span>
                 </div>
                 <div className="footer-section-columns">
                     <span>244-5333-7783</span>
                     <span>hola@foodie.com</span>
                     <span>Trabaja con nosotros</span>
-                    <span>Términos y condiciones</span>
+                    <span>FOODIE © 2025</span>
                 </div>
                 <div className="footer-section-columns">
-                    <span></span>
-                    <span></span>
-                    <span>Políticas de privacidad</span>
-                    <span>FOODIE © 2025</span>
+                    <span className="enlacefooter" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                        style={{ cursor: 'pointer', fontWeight: 'bold', fontSize: '75px' }}><FaRegArrowAltCircleUp /></span>
                 </div>
             </div>
         </div>
