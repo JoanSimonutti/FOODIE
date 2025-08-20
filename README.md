@@ -1,4 +1,4 @@
-# 🍽️ Foodie
+# Foodie
 
 ![Vista previa de Foodie](public/foo1.png)
 
