@@ -1,16 +1,16 @@
-# Foodie
+# 🍽️ Foodie
 
-![Descripción de la imagen](public/foo1.png)
+![Vista previa de Foodie](public/foo1.png)
 
-Sitio web responsivo desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera visual y atractiva.
+**Foodie** es un sitio web **responsivo** desarrollado con **React.js**, orientado a presentar platos y recetas gastronómicas de manera **visual y atractiva**.
 
-Implementa diseño adaptable y componentes reutilizables para lograr una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
+El proyecto implementa un **diseño adaptable** y **componentes reutilizables**, logrando una navegación fluida y una experiencia de usuario consistente en distintos dispositivos.
 
-Visitalo haciendo click aqui >>> **[Foodie](https://page-01-navy.vercel.app/)** <<<
+🔗 **Visítalo aquí:** [Foodie](https://page-01-navy.vercel.app/)
 
 ---
 
-<div align="end">
+<div align="right">
 
 Creado por [Joan Simonutti](https://www.linkedin.com/in/joansimonutti/) | 2025
 
